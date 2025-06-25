@@ -3,7 +3,7 @@
 This is a fun command-line **Rock, Paper, Scissors** game made in Python — with emojis, repeat play, and cool vibes 🔥
 
 ## 🕹️ How to Play
-- Run `rock_game.py` in your terminal or Python editor
+- Run `main.py` in your terminal or Python editor
 - Choose between:
   - `rock` ✊
   - `paper` ✋
